@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/demo-fe-ghp/static/css/main.92cab4ce.css",
-    "main.js": "/demo-fe-ghp/static/js/main.16d14eb1.js",
-    "static/js/27.41eb5390.chunk.js": "/demo-fe-ghp/static/js/27.41eb5390.chunk.js",
-    "index.html": "/demo-fe-ghp/index.html"
+    "main.css": "/fe/static/css/main.92cab4ce.css",
+    "main.js": "/fe/static/js/main.56c4da9d.js",
+    "static/js/27.41eb5390.chunk.js": "/fe/static/js/27.41eb5390.chunk.js",
+    "index.html": "/fe/index.html"
   },
   "entrypoints": [
     "static/css/main.92cab4ce.css",
-    "static/js/main.16d14eb1.js"
+    "static/js/main.56c4da9d.js"
   ]
 }
